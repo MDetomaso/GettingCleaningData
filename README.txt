@@ -1,4 +1,4 @@
-## How to get your tidy data
+# How to get your tidy data
 1. download the data through https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2. unzip the zip file.
 3. Creat a new project in R whose directory is under the "UCI HAR Dataset" folder.
