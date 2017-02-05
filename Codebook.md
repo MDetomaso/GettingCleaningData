@@ -29,7 +29,7 @@ A Fast Fourier Transform (FFT) was applied to some of these signals producing fB
 ## Features: selection and renaming
 SELECTION: features related to "mean" and standard deviation ("std") have been shortlisted as required by the task. 
 
-MERGING DATA: after that train and test data have been merged together ("final_data"), mean and std were calculated for each subject for each activity for each mean and std measurements ("melt_data"). 
+MERGING DATA: after that train and test data have been merged together ("final_data"), mean and std were calculated for each subject for each activity for each mean and std measurements ("melt_data" and "tidy_data"). 
 
 RENAMING: in the "tidy_dataset" variables were renamed as follows:
 * t = "time" (time measurement)
